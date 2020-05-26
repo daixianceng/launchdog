@@ -2,6 +2,11 @@
 
 把狗狗发射到服务器，通过叫声来`DEBUG`
 
+<p align="center">
+  <img src="./Laika.jpg" alt="Laika" />
+  <p align="center"><a href="https://zh.wikipedia.org/wiki/%E8%90%8A%E5%8D%A1_(%E8%98%87%E8%81%AF%E5%A4%AA%E7%A9%BA%E7%8A%AC)">太空狗莱卡</a></p>
+</p>
+
 ## 发射步骤
 
 ### 运输燃料
