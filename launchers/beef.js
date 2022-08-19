@@ -10,8 +10,9 @@ exports.todosRocket = async function () {
   const response = await fetch(`${process.env.TARGET_SERVER_BEEF}/todos`, {
     method: 'GET',
     headers: {
-      'Content-Type': 'application/json'
+      'Content-Type': 'application/json',
     },
+    body: JSON.stringify({}),
     // ... 其它选项
   });
   const data = await response.json();
