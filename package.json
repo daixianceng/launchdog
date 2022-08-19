@@ -4,13 +4,13 @@
   "description": "Launching dogs into servers",
   "main": "index.js",
   "scripts": {
-    "start": "node ./index.js 127.0.0.1 8080"
+    "start": "node ./index.js"
   },
   "repository": "https://github.com/daixianceng/launchdog.git",
   "author": "Cosmo <daixianceng@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^8.2.0",
-    "node-fetch": "^2.6.0"
+    "dotenv": "^16.0.1",
+    "node-fetch": "^3.2.10"
   }
 }
